@@ -1,4 +1,4 @@
-package com.hwas.shop;
+package com.hwas.shop.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
